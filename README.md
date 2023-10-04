@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ashishmishra19122000@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1EA8OOl7Wa2Pctor7tjKlSaBw3_bfGBvxkRb08A_YWCU/edit?usp=sharing](https://docs.google.com/document/d/1EA8OOl7Wa2Pctor7tjKlSaBw3_bfGBvxkRb08A_YWCU/edit?usp=sharing)
+- 📄 Know about my experiences [Click](https://drive.google.com/file/d/1nHeoxXOwD4-XvY5FnDtevyxhhiIOxm6F/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
@@ -25,7 +25,7 @@
 <a href="https://twitter.com/ashishk80254497" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishk80254497" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashish-kumar-mishra-616321206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kumar-mishra-616321206" height="30" width="40" /></a>
 <a href="https://fb.com/ashish kumar mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashish kumar mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/a_s_h__1912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_s_h__1912" height="30" width="40" /></a>
+<a href="https://instagram.com/ashishmishra_1909?igshid=MzMyNGUyNmU2YQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_s_h__1912" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashish kumar mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashish kumar mishra" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashish kumar mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashish kumar mishra" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/ashish kumar mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ashish kumar mishra" height="30" width="40" /></a>
