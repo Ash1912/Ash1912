@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Ashish Kumar Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash1912&label=Profile%20views&color=0e75b6&style=flat" alt="ash1912" /> </p>
@@ -10,15 +10,15 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://ash1912.github.io/My-Portfolio/](https://ash1912.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ash1912.github.io/My-Portfolio/)
 
-- 💬 Ask me about **C, C++, JAVA, Python, HTML, CSS, Javascript, React Js**
+- 💬 Ask me about **C, C++, JAVA, Python, HTML, CSS, Javascript, React Js, Ext Js**
 
 - 📫 How to reach me **ashishmishra19122000@gmail.com**
 
-- 📄 Know about my experiences [Click](https://drive.google.com/file/d/1nHeoxXOwD4-XvY5FnDtevyxhhiIOxm6F/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nHeoxXOwD4-XvY5FnDtevyxhhiIOxm6F/view?usp=sharing)
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fact **I am an Introvert**
 
 <h3 align="left">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left">
