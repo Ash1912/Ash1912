@@ -41,3 +41,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ash1912&show_icons=true&locale=en&theme=radical" alt="ash1912" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ash1912&theme=radical" alt="ash1912" /></p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ash1912/ash1912/output/snake.svg" alt="Snake animation" />
+
+###
