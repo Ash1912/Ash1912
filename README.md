@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.prod.website-files.com/6541324a91f919eeb68e9608/66f2f05f6645ee6ae1a2d1b9_empower-your-development-workflow-prove-identity-new-developer-portal.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.prod.website-files.com/6541324a91f919eeb68e9608/66f2f05f6645ee6ae1a2d1b9_empower-your-development-workflow-prove-identity-new-developer-portal.png" style="max-height: 100px;"/></a>
 <h1 align="center" style="position: relative; margin-bottom: 0; margin-top: 0; padding: 0;">
   Hi 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
