@@ -20,7 +20,7 @@
   <li>👨‍💻 All of my projects are available at <a href="https://ash1912.github.io/My-Portfolio/" style="color: #4a90e2; text-decoration: none;">Portfolio</a></li>
   <li>💬 Ask me about <strong>JavaScript, C, C++, Java, Python, C#, HTML, CSS, XML, ReactJS, ExtJS, Selenium</strong></li>
   <li>📫 How to reach me <a href="mailto:ashishmishra19122000@gmail.com" style="color: #4a90e2; text-decoration: none;">ashishmishra19122000@gmail.com</a></li>
-  <li>📄 Know about my experiences on <a href="https://drive.google.com/file/d/1mM8iq6KDTexjIRpeVqpZDUdIztBnyFjn/view?usp=sharing" style="color: #4a90e2; text-decoration: none;">Resume</a> or <a href="https://www.linkedin.com/in/ashish-kumar-mishra-616321206/" style="color: #4a90e2; text-decoration: none;">LinkedIn</a></li>
+  <li>📄 Know about my experiences on <a href="https://www.linkedin.com/in/ashish-kumar-mishra-616321206/" style="color: #4a90e2; text-decoration: none;">LinkedIn</a></li>
   <li>⚡ Fun Fact <strong>I am an Introvert</strong></li>
       </ul>
     </div>
